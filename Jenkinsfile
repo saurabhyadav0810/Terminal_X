@@ -11,7 +11,7 @@ pipeline {
         IMAGE_TAG = "${BUILD_NUMBER}"
 
         CLUSTER_NAME = 'terminalx-cluster'
-        SERVICE_NAME = 'terminalx-server'
+        SERVICE_NAME = 'terminalx-task-service-hz53ewt8'
     }
 
     stages {
