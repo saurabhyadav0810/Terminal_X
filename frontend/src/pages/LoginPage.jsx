@@ -33,7 +33,7 @@ export default function LoginPage() {
       <header className="flex items-center px-8 py-5 border-b border-gray-800">
         <div className="flex items-center gap-2">
           <span className="text-2xl">⚡</span>
-          <span className="text-xl font-bold text-white">Terminal_X</span>
+          <span className="text-xl font-bold text-white">TerminalX</span>
         </div>
       </header>
 
